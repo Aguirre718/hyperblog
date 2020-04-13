@@ -46,6 +46,14 @@ body
     font-size: 28px;
 }
 
+#post
+{
+    background: white;
+    color:black;
+    padding: 0;
+    border: 1px solid #DDD;
+}
+
 #footer
 {
     background: #333;
