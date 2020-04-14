@@ -61,3 +61,9 @@ body
     text-align: center;
     padding: 0.22cm;
 }
+
+#imagen
+{
+    width: 800px;
+    vertical-align: middle;
+}
